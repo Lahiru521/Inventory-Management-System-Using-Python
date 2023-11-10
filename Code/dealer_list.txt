@@ -1,0 +1,41 @@
+dealer_name: Tech Solutions
+contact_no: 123-456-7890
+location: New York USA
+Keyboard, Logitech, $50, 20 units
+Mouse, Razer, $70, 15 units
+Webcam, Logitech, $100, 10 units
+
+dealer_name: PC World
+contact_no: 987-654-3210
+location: London UK
+Headset, HyperX, $100, 25 units
+Speakers, Logitech, $120, 15 units
+Cooling Pad, Cooler Master, $40, 30 units
+
+dealer_name: Cyber Zone
+contact_no: 555-123-4567
+location: Los Angeles USA
+Gaming Chair, GT Racing, $200, 10 units
+Monitor, Dell, $500, 5 units
+Gaming Mousepad, SteelSeries, $20, 50 units
+
+dealer_name: Tech Bazaar
+contact_no: 222-333-4444
+location: Mumbai India
+Surge Protector, Belkin, $30, 40 units
+External Hard Drive, Seagate, $50, 20 units
+Power Bank, Anker, $60, 30 units
+
+dealer_name: Gizmo World
+contact_no: 789-456-1230
+location: Toronto Canada
+Graphics Card, MSI, $800, 5 units
+Gaming Keyboard, Corsair, $200, 15 units
+VR Headset, Oculus, $400, 10 units
+
+dealer_name: Tech Hub
+contact_no: 444-555-6666
+location: Berlin Germany
+USB Flash Drive, SanDisk, $60, 25 units
+Bluetooth Speaker, JBL, $100, 20 units
+WiFi Router, Netgear, $300, 10 units

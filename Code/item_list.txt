@@ -1,0 +1,8 @@
+item_code:1
+name:JBL Boombox
+brand:JBL
+price:80000.0
+quantity:2
+category:JBL
+purch_date:['2023', '04', '05']
+
